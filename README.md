@@ -9,5 +9,6 @@ This is example to show how..kkk.
 Sample website with plenty of files for demos
 
 ## Deployment
+this is how deploy
 
 ## How To contribute
