@@ -1,6 +1,8 @@
 # Starter Web Repo
 
 This  is for showing how Git and GitHub work
+##Introduction
+This is example to show how...
 
 ## Purpose
 
