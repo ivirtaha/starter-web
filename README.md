@@ -2,7 +2,7 @@
 
 This  is for showing how Git and GitHub work
 ##Introduction
-This is example to show how...
+This is example to show how..kkk.
 
 ## Purpose
 
